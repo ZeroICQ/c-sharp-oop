@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world", "hello_world\hello_world.csproj", "{F04506A4-4480-4BB0-BE3F-B39D66780BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world_toplevel_statement", "hello_world_toplevel_statement\hello_world_toplevel_statement.csproj", "{3540203C-FA61-42B6-9A02-988860674A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world_lib", "hello_world_lib\hello_world_lib.csproj", "{DE4FC2B0-5680-42A5-9751-546DDA08E98C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{F04506A4-4480-4BB0-BE3F-B39D66780BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F04506A4-4480-4BB0-BE3F-B39D66780BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F04506A4-4480-4BB0-BE3F-B39D66780BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3540203C-FA61-42B6-9A02-988860674A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3540203C-FA61-42B6-9A02-988860674A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3540203C-FA61-42B6-9A02-988860674A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3540203C-FA61-42B6-9A02-988860674A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4FC2B0-5680-42A5-9751-546DDA08E98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4FC2B0-5680-42A5-9751-546DDA08E98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4FC2B0-5680-42A5-9751-546DDA08E98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4FC2B0-5680-42A5-9751-546DDA08E98C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
